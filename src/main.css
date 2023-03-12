@@ -810,7 +810,7 @@ video {
 }
 
 .logo{
-  zoom: 75%;
+  zoom: 85%;
 }
 
 @media (prefers-color-scheme: dark) {
